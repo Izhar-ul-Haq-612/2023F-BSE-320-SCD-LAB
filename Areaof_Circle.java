@@ -9,5 +9,8 @@ public class Areaof_Circle {
         r=x.nextInt();
         Area=PI*r*r;
         System.out.print("Area of Circle is: "+Area);
+        System.out.print("program End"); // this line added
+        
     }
+
 }
